@@ -1,2 +1,10 @@
-beautifulsoup4==4.5.1
-tornado==4.4.2
+aiodns==1.1.1
+aiohttp==1.2.0
+async-timeout==1.1.0
+beautifulsoup4==4.5.3
+chardet==2.3.0
+multidict==2.1.4
+olefile==0.43
+Pillow==4.0.0
+pycares==2.1.1
+yarl==0.8.1
